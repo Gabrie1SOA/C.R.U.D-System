@@ -50,7 +50,6 @@ public class MENU2 extends JFrame{
         setSize(1000,1000);
         setContentPane(USUARIO);
 
-        textPane1.setText("Hola");
 
         READButton.addActionListener(new ActionListener() {
             @Override
