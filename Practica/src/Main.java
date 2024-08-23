@@ -6,6 +6,5 @@ public class Main {
         Login start = new Login();
         start.setVisible(true);
 
-
     }
 }
